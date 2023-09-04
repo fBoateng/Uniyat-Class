@@ -6,3 +6,7 @@
 {'Fuel Type': 'Petrol', 'Quantity': 3.0, 'Price': 16.0, 'Payment Method': 'Cash', 'Total Cost': 48.0}
 {'Fuel Type': 'Petrol', 'Quantity': 20.0, 'Price': 16.0, 'Payment Method': 'Cash', 'Total Cost': 320.0}
 {'Fuel Type': 'Petrol', 'Quantity': 25.0, 'Price': 15.5, 'Payment Method': 'Cash', 'Total Cost': 387.5}
+{'Fuel Type': 'Petrol', 'Quantity': 15.0, 'Price': 12.6, 'Payment Method': 'Card', 'Total Cost': 189.0}
+{'Fuel Type': 'Petrol', 'Quantity': 15.0, 'Price': 12.6, 'Payment Method': 'Card', 'Total Cost': 189.0}
+{'Fuel Type': 'Diesel', 'Quantity': 15.0, 'Price': 12.6, 'Payment Method': 'Cash', 'Total Cost': 189.0}
+{'Fuel Type': 'Petrol', 'Quantity': 25.0, 'Price': 12.3, 'Payment Method': 'Cash', 'Total Cost': 307.5}
